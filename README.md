@@ -15,8 +15,11 @@ __________________________________________________________________________
 __________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 •	HTML5 – Estrutura da página
+
 •	CSS3 – Estilização e aplicação dos backgrounds
+
 •	JavaScript (Vanilla) – Interatividade e consumo dos dados
+
 •	n8n – Automação e geração dinâmica dos estilos
 __________________________________________________________________________
 ⚙️ Como Funciona
