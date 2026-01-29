@@ -22,6 +22,7 @@ __________________________________________________________________________
 4.	O código CSS/HTML gerado é exibido abaixo para referência e reutilização
 6.	__________________________________________________________________________
 💡 Objetivo do Projeto
+
 Este projeto tem como objetivo:
 •	Ajudar desenvolvedores front-end a criarem backgrounds rapidamente
 •	Demonstrar o uso do n8n integrado ao front-end
