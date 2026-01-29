@@ -1,38 +1,39 @@
-🎨 Background Generator for Front-end Devs
-Projeto simples criado para gerar fundos de páginas (backgrounds) de forma dinâmica e exibir o código CSS gerado logo abaixo, ajudando desenvolvedores front-end a copiar, entender e reutilizar facilmente.
-A automação é feita com n8n, enquanto a interface utiliza HTML, CSS e JavaScript.
-__________________________________________________________________________
-🚀 Funcionalidades
-•	🎨 Geração dinâmica de fundos de página (cores, gradientes, etc.)
+🎨 Background Generator para Devs Front-end 
 
-•	👀 Visualização em tempo real do background aplicado
+Status do Projeto: 🚀Finalizado
 
-•	📄 Exibição do código CSS gerado
+Uma ferramenta inteligente que automatiza a criação de backgrounds dinâmicos. O diferencial técnico aqui é o uso do n8n como motor de lógica, separando a geração do estilo da interface visual.
 
-•	📋 Código pronto para copiar e usar em projetos
+📸 Preview
 
-•	🔗 Integração com n8n para automação e lógica de geração
-__________________________________________________________________________
-🛠️ Tecnologias Utilizadas
+<img width="1345" height="908" alt="image" src="https://github.com/user-attachments/assets/b3d0f039-a051-426b-aba4-f7ea6d2f1660" />
 
-•	HTML5 – Estrutura da página
+_______________________________________________
+🛠️ Diferenciais Técnicos:
 
-•	CSS3 – Estilização e aplicação dos backgrounds
+•	Consumo de APIs: Integração entre Front-end e fluxos de automação.
 
-•	JavaScript (Vanilla) – Interatividade e consumo dos dados
+•	Manipulação de DOM: Atualização em tempo real das propriedades CSS via JavaScript.
 
-•	n8n – Automação e geração dinâmica dos estilos
-__________________________________________________________________________
-⚙️ Como Funciona
-1.	O n8n executa um workflow responsável por gerar os dados do background
-2.	O JavaScript consome essas informações via endpoint/webhook
-3.	O background é aplicado dinamicamente na página
-4.	O código CSS/HTML gerado é exibido abaixo para referência e reutilização
-__________________________________________________________________________
-💡 Objetivo do Projeto
+•	Arquitetura desacoplada: A lógica de geração de cores/gradientes não está no JS, mas sim no workflow do n8n.
 
-Este projeto tem como objetivo:
-•	Ajudar desenvolvedores front-end a criarem backgrounds rapidamente
-•	Demonstrar o uso do n8n integrado ao front-end
-•	Servir como projeto educacional e de portfólio
+🧪 Tecnologias e Ferramentas:
+Tecnologia	      Função
+n8n	Workflow      engine para geração dinâmica de estilos.
+JavaScript	      Consumo de Webhooks e manipulação de estilos em tempo real.
+HTML5/CSS3	     Estruturação e renderização visual responsiva.
+______________________________________________
+⚙️ Fluxo da Aplicação
+
+1.	O n8n processa a lógica (ex: sorteio de cores ou padrões).
+2.	
+3.	O JavaScript faz uma requisição ao endpoint do workflow.
+4.	
+5.	A interface recebe os dados e injeta o CSS dinamicamente.
+6.	
+7.	O código é formatado e exibido para o usuário final.
+8.	
+🔗 Link para Testar
+
+🌐 https://raypr5.github.io/fundo-magico/
 
