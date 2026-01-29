@@ -26,13 +26,13 @@ ______________________________________________
 ⚙️ Fluxo da Aplicação
 
 1.	O n8n processa a lógica (ex: sorteio de cores ou padrões).
-2.	
-3.	O JavaScript faz uma requisição ao endpoint do workflow.
-4.	
-5.	A interface recebe os dados e injeta o CSS dinamicamente.
-6.	
-7.	O código é formatado e exibido para o usuário final.
-8.	
+   
+2.	O JavaScript faz uma requisição ao endpoint do workflow.
+   
+3.	A interface recebe os dados e injeta o CSS dinamicamente.
+   
+4.	O código é formatado e exibido para o usuário final.
+   
 🔗 Link para Testar
 
 🌐 https://raypr5.github.io/fundo-magico/
