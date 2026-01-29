@@ -18,9 +18,13 @@ _______________________________________________
 •	Arquitetura desacoplada: A lógica de geração de cores/gradientes não está no JS, mas sim no workflow do n8n.
 
 🛠️ Tecnologias e Ferramentas:
+
 Tecnologia || Função
+
 n8nWorkflow || engine para geração dinâmica de estilos via API.
+
 JavaScript || Consumo de Webhooks e manipulação de estilos em tempo real.
+
 HTML5/CSS3 || Estruturação e renderização visual responsiva.
 ______________________________________________
 ⚙️ Fluxo da Aplicação
