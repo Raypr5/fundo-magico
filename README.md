@@ -28,7 +28,7 @@ __________________________________________________________________________
 2.	O JavaScript consome essas informações via endpoint/webhook
 3.	O background é aplicado dinamicamente na página
 4.	O código CSS/HTML gerado é exibido abaixo para referência e reutilização
-6.	__________________________________________________________________________
+__________________________________________________________________________
 💡 Objetivo do Projeto
 
 Este projeto tem como objetivo:
