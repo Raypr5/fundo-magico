@@ -4,9 +4,13 @@ A automação é feita com n8n, enquanto a interface utiliza HTML, CSS e JavaScr
 __________________________________________________________________________
 🚀 Funcionalidades
 •	🎨 Geração dinâmica de fundos de página (cores, gradientes, etc.)
+
 •	👀 Visualização em tempo real do background aplicado
+
 •	📄 Exibição do código CSS gerado
+
 •	📋 Código pronto para copiar e usar em projetos
+
 •	🔗 Integração com n8n para automação e lógica de geração
 __________________________________________________________________________
 🛠️ Tecnologias Utilizadas
