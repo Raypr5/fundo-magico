@@ -14,6 +14,7 @@ __________________________________________________________________________
 •	🔗 Integração com n8n para automação e lógica de geração
 __________________________________________________________________________
 🛠️ Tecnologias Utilizadas
+
 •	HTML5 – Estrutura da página
 
 •	CSS3 – Estilização e aplicação dos backgrounds
